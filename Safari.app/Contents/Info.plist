@@ -5,6 +5,6 @@
 	<key>CFBundleExecutable</key>
 	<string>script.pl</string>
 	<key>CFBundleIconFile</key>
-	<string>Safari.icns</string>
+	<string>compass.icns</string>
 </dict>
 </plist>
