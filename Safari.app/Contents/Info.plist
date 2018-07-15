@@ -3,8 +3,8 @@
 <plist version="1.0">
 <dict>
 	<key>CFBundleExecutable</key>
-	<string>Neptune</string>
+	<string>Safari</string>
 	<key>CFBundleIconFile</key>
-	<string>Neptune.icns</string>
+	<string>Safari.icns</string>
 </dict>
 </plist>
